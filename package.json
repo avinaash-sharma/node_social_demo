@@ -1,0 +1,24 @@
+{
+  "name": "social-app",
+  "version": "1.0.0",
+  "description": "basic app, hands onto backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "Avinash Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.11",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
